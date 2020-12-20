@@ -1,3 +1,3 @@
 # spring-cloud-config
 config:
-  info: version=2
+  info: version=23
